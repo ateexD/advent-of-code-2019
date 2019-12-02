@@ -22,4 +22,4 @@ if __name__ == "__main__":
         pass
 
     print(ans_1, ans_2)
-
+    f.close()
